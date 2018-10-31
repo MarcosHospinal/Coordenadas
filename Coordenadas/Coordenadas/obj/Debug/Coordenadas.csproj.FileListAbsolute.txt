@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Tropical\Coordenadas\Coordenadas\Coordenadas\bin\Debug\Coordenadas.exe.config
+C:\Users\PC\Desktop\Tropical\Coordenadas\Coordenadas\Coordenadas\bin\Debug\Coordenadas.exe
+C:\Users\PC\Desktop\Tropical\Coordenadas\Coordenadas\Coordenadas\bin\Debug\Coordenadas.pdb
+C:\Users\PC\Desktop\Tropical\Coordenadas\Coordenadas\Coordenadas\obj\Debug\Coordenadas.exe
+C:\Users\PC\Desktop\Tropical\Coordenadas\Coordenadas\Coordenadas\obj\Debug\Coordenadas.pdb
+C:\Users\PC\Desktop\Tropical\Coordenadas\Coordenadas\Coordenadas\obj\Debug\Coordenadas.csprojResolveAssemblyReference.cache
+D:\Tropical\Coordenadas\Coordenadas\Coordenadas\bin\Debug\Coordenadas.exe.config
+D:\Tropical\Coordenadas\Coordenadas\Coordenadas\obj\Debug\Coordenadas.exe
+D:\Tropical\Coordenadas\Coordenadas\Coordenadas\obj\Debug\Coordenadas.pdb
